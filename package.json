@@ -54,7 +54,7 @@
     "randombytes": "^2.0.1",
     "safe-buffer": "^5.0.1",
     "typeforce": "^1.11.3",
-    "varuint-bitcoin": "^1.0.4",
+    "varuint-bitcoin": "^2.0.0",
     "wif": "^2.0.1"
   },
   "devDependencies": {
